@@ -1,4 +1,4 @@
-local link = "discord.gg/WGMhpwEvFm"
+local link = "https://discord.gg/kxi"
 
 pcall(function()
 	if setclipboard then
