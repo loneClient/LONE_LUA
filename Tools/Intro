@@ -1,3 +1,10 @@
+local args = {
+"https://discord.gg/kxi!",
+Color3.fromRGB(255, 255, 255)
+}
+firesignal(game:GetService("ReplicatedStorage").AnnouncementEvent.OnClientEvent, unpack(args))
+wait(4.5)
+
 local link = "https://discord.gg/kxi"
 
 pcall(function()
